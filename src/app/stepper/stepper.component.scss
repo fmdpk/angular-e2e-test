@@ -1,0 +1,12 @@
+.wrapper {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+button {
+  background: rgb(6, 6, 133);
+  color: white;
+  border: none !important;
+  padding: 4px 8px;
+  border-radius: 4px;
+}
